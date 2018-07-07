@@ -3,7 +3,7 @@ This project used a pokemon API to allow a user to search for any pokemon they w
 
 ![pic](pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/PokemonAPI/
 
 
 How It's Made:
